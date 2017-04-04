@@ -1,0 +1,558 @@
+{
+  "settings": {
+    "currentPage": "Page7.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.12.1",
+    "name": "CYOA-The letter",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "Welcome-warnings.html": {
+      "settings": {
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "SPAN": {
+              "font-size": "46px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-size": "17px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "I": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "header2-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/letter-2000x1500-95.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "<i>Beware and warning</i><span style=\"font-weight: normal;\"><i><br></i></span>",
+          "text": "<i>You and YOU ALONE are in charge of what happens in this story.<br></i> <br><i>There are dangers, choices, adventures, and consequences. YOU must use all of your numerous talents and much of your enormous intelligence. The wrong decision could end in disaster - even death. But, don't despair. At any time, YOU can go back and make another choice, alter the path of your story, and change its result.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Page1.html\" data-toolbar=\"-mbrBtnMove\">Begin your journey</a>"
+        }
+      ]
+    },
+    "Page1.html": {
+      "settings": {
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<br><b>A</b><i>fter a long hard day at your boring office job you arrive at home. Before you walk into your house you see a letter in your mailbox, an unusual occurrence as bill day is Thursday not Monday.<br> <br>You go up to the mailbox and see that there is a letter in it. The letter seemed old, the yellow hue and wrinkles were apparent, aside from the attic smell it gave off - quite suspicious, you thought.&nbsp;<br>You can either -</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Page3.html\" data-toolbar=\"-mbrBtnMove\">Open the letter</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Page2.html\" data-toolbar=\"-mbrBtnMove\">Shrug it off and walk&nbsp;<br>back to your house<br></a> "
+        }
+      ]
+    },
+    "Page2.html": {
+      "settings": {
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<b>Y</b><i>ou decide that it is too suspicious and you choose to go inside. Half way up the drive you slip and fall head first on a rock. <br><br>No one knows what happened to your body. Did the writer of the letter take it?<br></i><br><i><br></i><b>THE END</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>"
+        }
+      ]
+    },
+    "Page3.html": {
+      "settings": {
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<br><b>Y</b><i>ou are too curious not to answer your mail. So you grab it out of your mailbox and open it and find seven words. <br><br>‘Meet me on the docks at twelve’ <br><br>You are not that sure whether to go or not because it seems like a stereotypical set up for a camp fire story.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Page4.html\" data-toolbar=\"-mbrBtnMove\">Drive up to the dock to find<br>out who sent you<br>the letter<br></a>"
+        }
+      ]
+    },
+    "Page4.html": {
+      "settings": {
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<b>Y</b><i>ou decide to go down to the docks to confront the person who wrote the red letter. <br><br>11:59 pm and there is no one there. Where is he? You think to yourself, did he forget? Is it a prank? <br><br>Then you hear a car rumble in the distance. A pair of bright yellow headlights pop into existence and they are heading towards you and the noise is getting louder.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Page5.html\" data-toolbar=\"-mbrBtnMove\">Stand your ground</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Page7.html\" data-toolbar=\"-mbrBtnMove\">Turn around and run away<br>as fast as you can<br></a>"
+        }
+      ]
+    },
+    "Page5.html": {
+      "settings": {
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<b>Y</b><i>ou decide to stand your ground. The car is getting dangerously close to you. Five seconds feels like it has been an hour. <br><br>The car is getting nearer and you are regretting your decision. You can now see the red hood of the car coming towards you.<br><br>Just as you get ready for the numbing pain of the car hitting you it screeches to a stop. A suited man comes out of the car and he is holding a hand gun. “Where is the money?” the man shouts at you.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Page6.html\" data-toolbar=\"-mbrBtnMove\">You decide to run away</a>"
+        }
+      ]
+    },
+    "Page6.html": {
+      "settings": {
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<i><b>Y</b>ou decide to run away. In the distance you hear a car. Its headlights are getting closer. You take a left turn into a dark alleyway and end up behind a small boat house. You see the car speed past you and you decide to flank it.<br><br>You decided to run into the alleyway and take the shortcut. You ran and ran, and just when you thought you made it out of the alleyway, you hear tires squealing. You only had a fraction of second to look behind before you saw the barrel of a pistol, and the sound of a gunshot. You collapsed, and closed your eyes<br></i><br><b>The end</b><br><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>"
+        }
+      ]
+    },
+    "Page7.html": {
+      "settings": {
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "15px"
+            },
+            "I": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "25px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header2-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/e6b19222fd5be7766bb0729a88abb4fe-2000x3546-83.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "<i><b>Y</b>ou decide to run away. In the distance you hear a car. Its headlights are getting closer. You take a left turn into a dark alleyway and end up behind a small boat house. You see the car speed past you and you decide to flank it.<br><br>You run onto the main road and lose it. It only took you ten minutes to find the police station nearest to you. <br><br>Once you arrive you quickly tell your story. Thirty minutes later the police sergeant returns looking happy with himself. He tells you that you were the bait in a drug bust and now you are a key person in the crime of the year.</i><br><i><br></i><i><b>The End</b></i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "index",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "25px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header2-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wastelandmailbox-2000x2000-74.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "CHOOSE YOUR OWN ADVENTURE<br><br><i>The Letter</i>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"Welcome-warnings.html\" data-toolbar=\"-mbrBtnMove\">START</a> "
+        }
+      ]
+    }
+  }
+}

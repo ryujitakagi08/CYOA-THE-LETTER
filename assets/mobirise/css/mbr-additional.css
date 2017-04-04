@@ -1,0 +1,178 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+#header2-3 H1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-3 SPAN {
+  font-size: 46px;
+  font-family: 'Oswald', sans-serif;
+}
+#header2-3 P {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#header2-3 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#header2-3 I {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+
+#header2-5 H1 {
+  font-size: 15px;
+}
+#header2-5 I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-5 B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-5 P {
+  font-size: 12px;
+}
+
+
+#header2-6 H1 {
+  font-size: 15px;
+}
+#header2-6 I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-6 B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-6 P {
+  font-size: 12px;
+}
+
+
+#header2-7 H1 {
+  font-size: 15px;
+}
+#header2-7 I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-7 B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-7 P {
+  font-size: 12px;
+}
+
+
+#header2-8 H1 {
+  font-size: 15px;
+}
+#header2-8 I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-8 B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-8 P {
+  font-size: 12px;
+}
+
+
+#header2-9 H1 {
+  font-size: 15px;
+}
+#header2-9 I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-9 B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-9 P {
+  font-size: 12px;
+}
+
+
+#header2-b H1 {
+  font-size: 15px;
+}
+#header2-b I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-b B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-b P {
+  font-size: 12px;
+}
+
+
+#header2-a H1 {
+  font-size: 15px;
+}
+#header2-a I {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#header2-a B {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#header2-a P {
+  font-size: 12px;
+}
+
+
+
+#header2-0 H1 {
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+#header2-0 I {
+  font-family: 'Lora', serif;
+}
+#header2-0 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
